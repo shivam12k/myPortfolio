@@ -4,7 +4,7 @@ const About = () => {
  
   return (
     <Section
-      className="pt-[4rem] -mt-[0.25]"
+      className="pt-[9rem] -mt-[0.25]"
       crosses
       crossesOffset="lg:translate-y-[5.25rem]"
       // customPaddings

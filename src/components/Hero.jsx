@@ -23,7 +23,8 @@ const Hero = () => {
         </motion.div>
         <motion.div {...slideAnimation("right")} className="relative z-1 max-w-[62rem] mx-auto text-center mb-[4rem] md:mb-[20rem] lg:mb-[6rem] ">
           <h1 className="h1 mb-6">
-            Unlock The secret of <span className="text-violet-700">Journalism</span> with me
+            Unlock The secret of <span className="text-violet-700">Journalism</span> <br /> with Mr Arun
+            <p className="text-[0.4em] text-violet-600">Join exclusive 2-Week Online Course</p>
           </h1>
         </motion.div>
       </div>
