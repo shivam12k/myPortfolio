@@ -1,23 +1,19 @@
 export const plannerData=[
     {
         id:1,
-        title:"Writing and Editing",
-        discription:["Introduction to writing fundamentals and editing techniques.", "Practice crafting clear and impactful content."]
+        title:"10th Board",
+        discription:["Agrasen DAV Public School", "Marks: 82%"]
     },
     {
         id:2,
-        title:"Media Ethics & Governance",
-        discription:["Explore ethical theories and societal expectations in media.", "Discuss media governance and responsibilities."]
+        title:"12th board",
+        discription:["Agrasen DAV Public School", "Marks:89%"]
     },
     {
         id:3,
-        title:"News Gathering Techniques",
-        discription:["Learn journalism basics, news values, and verification methods.", "Dive into digital journalism and online storytelling."]
+        title:"Bachelor of tchnology",
+        discription:["Kalinga institute of industrial technology", "Stream: Electronics and Telecommunication | Marks:84.4%", ]
     },
-    {
-        id:4,
-        title:"Interviewing Skills & Final Projects",
-        discription:["Master interviewing techniques and conduct mock interviews.", "Work on final projects integrating course learnings and present to the class."]
-    }
+
 
 ]

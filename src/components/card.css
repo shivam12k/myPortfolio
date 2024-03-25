@@ -1,7 +1,7 @@
 .card {
     width: 340px;
     /* height: 350px; */
-    background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+    background-image: linear-gradient(163deg, #00ff75 0%, #0088ff 100%);
     border-radius: 20px;
     transition: all .3s;
    }
@@ -31,7 +31,7 @@
     --tooltip-width: 100px;
     --gap-between-tooltip-to-button: 18px;
     --button-color: #222;
-    --tooltip-color: #6366f1;
+    --tooltip-color: #0ea5e9;
     width: var(--width);
     height: var(--height);
     background: var(--button-color);
@@ -62,7 +62,7 @@
     width: 0;
     height: 0;
     border: 10px solid transparent;
-    border-top-color: #8b5cf6;
+    border-top-color: #0ea5e9;
     left: calc(50% - 10px);
     bottom: calc(100% + var(--gap-between-tooltip-to-button) - 0px);
   }

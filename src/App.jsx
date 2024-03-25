@@ -5,6 +5,7 @@ import About from './components/About';
 import Courses from './components/Courses';
 import Footer from './components/Footer';
 import Planner from './components/Planner';
+import SkillSet from './components/SkillsSection';
 
 const App = () => {
  
@@ -15,6 +16,7 @@ const App = () => {
         <NavBar className="z-10" /> 
         <Hero/>
         <About/>
+       <SkillSet/>
         <Planner/>
         <Courses/>
         <Footer/>

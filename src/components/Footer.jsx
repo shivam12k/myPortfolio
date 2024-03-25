@@ -20,7 +20,7 @@ const Footer = () => {
                   alt="FlowBite Logo"
                 />
                 <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-                  Journalism
+                 Shivam
                 </span>
               </a>
             </div>
@@ -32,19 +32,19 @@ const Footer = () => {
                 <ul className="text-gray-500 dark:text-gray-400 font-medium">
                   <li className="mb-4">
                     <a href="#" className="hover:underline">
-                      Journaism
+                      portfolio
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="hover:underline">
-                      Media
+                    <a href="https://docs.google.com/document/d/1lHTFlapx_gACYxTi5pedsAdrjq4s5eGg/edit?usp=sharing&ouid=116674365278656510525&rtpof=true&sd=true" className="hover:underline">
+                      Resume
                     </a>
                   </li>
                 </ul>
               </div>
               <div>
                 <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">
-                  Follow us
+                  Follow me
                 </h2>
                 <ul className="text-gray-500 dark:text-gray-400 font-medium">
                   <li className="mb-4">
@@ -87,9 +87,9 @@ const Footer = () => {
           <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
           <div className="sm:flex sm:items-center sm:justify-between">
             <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
-              © 2023{" "}
+              © 2024{" "}
               <a href="https://flowbite.com/" className="hover:underline">
-                Mr Arun
+               Shivam
               </a>
               . All Rights Reserved.
             </span>
