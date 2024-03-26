@@ -4,16 +4,16 @@ export const navlist = [
     name: "About me",
   },
   {
-    id: "planner",
-    name: "Roadmap",
+    id: "skills",
+    name: "Skills",
   },
 
   {
-    id: "course",
-    name: "Courses",
+    id: "education",
+    name: "Education",
   },
   {
-    id: "contact",
-    name: "Contact",
+    id: "projects",
+    name: "Projects",
   },
 ];

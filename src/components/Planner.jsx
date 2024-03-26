@@ -38,7 +38,7 @@ const Planner = () => {
       className="pt-[10rem] -mt-[0.25]"
       crosses
       crossesOffset="lg:translate-y-[5.25rem]"
-      id="planner"
+      id="education"
     >
       <div className="container relative  flex flex-col justify-center">
         <div   ref={scrollRef} className="text-[40px] font-black text-center text-sky-600 underline decoration-dashed underline-offset-8">

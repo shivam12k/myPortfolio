@@ -2,10 +2,10 @@ import React from 'react';
 import NavBar from "./components/NavBar";
 import Hero from './components/Hero';
 import About from './components/About';
-import Courses from './components/Courses';
 import Footer from './components/Footer';
 import Planner from './components/Planner';
 import SkillSet from './components/SkillsSection';
+import Projects from './components/Projects';
 
 const App = () => {
  
@@ -18,7 +18,7 @@ const App = () => {
         <About/>
        <SkillSet/>
         <Planner/>
-        <Courses/>
+        <Projects/>
         <Footer/>
        
       </div>

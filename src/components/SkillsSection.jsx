@@ -48,7 +48,7 @@ const SkillSet = () => {
       className="pt-[2rem] -mt-[0.25]"
       crosses
       crossesOffset="lg:translate-y-[5.25rem]"
-      id="course"
+      id="skills"
     >
       <div className="w-full container flex flex-col justify-center">
         <div
