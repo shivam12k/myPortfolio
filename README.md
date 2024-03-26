@@ -6,7 +6,6 @@ Welcome to the repository for my personal portfolio website! This project was bo
 
 - **Modern Design**: A clean and modern design to showcase my work effectively.
 - **Responsive Layout**: Ensures optimal viewing experience across a wide range of devices.
-- **Dynamic Routing**: Utilizes Vue Router for smooth navigation between pages.
 - **Optimized Performance**: Leveraging Vite's fast development server and optimized build for efficient development and production builds.
 - **Customizable**: Easily customizable to fit personal preferences and project requirements.
 
